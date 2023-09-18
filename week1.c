@@ -1,6 +1,7 @@
 //HELLO WORLD
 
-#include <stdio.h>
+#include <Stdio.h>
+
 
 //main function
 // int main(void){
