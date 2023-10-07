@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    //0이상만 출력하는거 수정해주기
-
+    
     int paidAmount;
     char paymentMethod;
     char membership;
